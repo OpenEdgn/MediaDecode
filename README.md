@@ -15,4 +15,5 @@
 |[delthas/JavaMP3](https://github.com/delthas/JavaMP3)|MIT|MASTER|
 
 ##LICENSE
+
 MIT

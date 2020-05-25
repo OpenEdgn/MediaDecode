@@ -14,9 +14,8 @@ java.sourceCompatibility = JavaVersion.VERSION_1_8
 dependencies {
     implementation(kotlin("reflect"))
     implementation(kotlin("stdlib"))
-    implementation(project(":mp3-jmp123"))
-    testImplementation(project(":test-resources"))
     testImplementation("org.junit.jupiter:junit-jupiter:5.6.2")
+    testImplementation(project(":test-resources"))
 }
 
 tasks.test {
